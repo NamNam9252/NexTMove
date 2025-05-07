@@ -1,5 +1,10 @@
 ## Getting Started
 
+clone the repo the run
+```bash
+npm install
+```
+
 First, run the development server:
 
 ```bash
