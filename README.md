@@ -1,4 +1,4 @@
-## Getting Started
+## Snake And Food Game
 
 clone the repo and the run 
 ```bash
