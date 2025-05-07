@@ -1,6 +1,6 @@
 ## Getting Started
 
-clone the repo adn the run 
+clone the repo and the run 
 ```bash
 npm install
 ```
