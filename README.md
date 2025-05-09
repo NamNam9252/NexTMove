@@ -1,4 +1,4 @@
-## Snake And Food Game
+## Convert Mobile into Joy stick!!
 
 clone the repo and the run 
 ```bash
